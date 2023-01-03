@@ -1,4 +1,4 @@
-# timer-tasks
+TIMER TASKS
 
 ## O Projeto consiste em um timer para organizar seus projetos e o tempo dedicado a eles
 
