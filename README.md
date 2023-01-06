@@ -16,3 +16,6 @@
 
  <img align="center" alt="Celi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" > TypeScript
           
+### Preview
+
+![chrome_SsUqbPNlZe](https://user-images.githubusercontent.com/87941765/211028741-54c57a55-5747-4a6b-9130-3b6c8e045b0e.gif)
